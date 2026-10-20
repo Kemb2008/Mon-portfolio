@@ -1,0 +1,5 @@
+# Ignorer les dossiers temporaires ou doublons
+Nouveau dossier/
+Thumbs.db
+desktop.ini
+*.tmp
